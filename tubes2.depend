@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1672639936 source:c:\users\poltekkes jakarta 3\documents\tubes\tubes2\tubes2\main.cpp
+	"tubes2.h"
+
+1672401802 c:\users\poltekkes jakarta 3\documents\tubes\tubes2\tubes2\tubes2.cpp
+	"tubes2.h"
+
+1672631470 c:\users\poltekkes jakarta 3\documents\tubes\tubes2\tubes2\tubes2.h
+	<iostream>
+	<cstdlib>
+
+1672401802 source:c:\users\poltekkes jakarta 3\documents\tubes\tubes2\tubes2\tubes2.cpp
+	"tubes2.h"
+
